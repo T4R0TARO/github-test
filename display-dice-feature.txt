@@ -1,0 +1,4 @@
+Displays 10 dice to the user
+Each Die can generate a number 
+Each Die can hold its number value 
+Each Die can re-roll its number value if its NOT held
